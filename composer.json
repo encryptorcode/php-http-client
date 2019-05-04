@@ -1,0 +1,18 @@
+{
+    "name": "encryptorcode/php-http-client",
+    "description": "Yet another http client made to support fluent interface for all REST APIs...",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abhay Jatin Doshi",
+            "email": "ajd1996@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "encryptorcode\\httpclient\\": "src/"
+        }
+    }
+}
