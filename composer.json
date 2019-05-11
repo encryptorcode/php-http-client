@@ -9,6 +9,7 @@
             "email": "ajd1996@hotmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
